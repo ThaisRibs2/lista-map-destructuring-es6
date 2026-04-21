@@ -1,0 +1,1 @@
+# lista-map-destructuring-es6
